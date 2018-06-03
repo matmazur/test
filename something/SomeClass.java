@@ -4,6 +4,7 @@ class SomeClass{
 
         System.out.println("Ojezusku");
  
+        System.out.println("Spanish Inquisition!");
 
     }
 }
